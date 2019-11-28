@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h3 align="center">React Bootstrap Icons</h3>
+<h3 align="center">Bootstrap Icons for React</h3>
 
 <p align="center">
-  React components for Bootstrap Icons
+  Bootstrap Icons React components using SVG and JS
   <br>
   <a href="https://icons.getbootstrap.com/"><strong>Explore Bootstrap Icons »</strong></a>
 </p>
@@ -38,6 +38,7 @@ export default App;
 - No dependencies, just React
 - SVG Icons
 - Simple API
+- Compatible with Create React App
 
 ## License
 
