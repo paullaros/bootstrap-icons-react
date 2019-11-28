@@ -1,0 +1,43 @@
+{
+  "name": "bootstrap-icons-react",
+  "version": "1.0.0-alpha",
+  "description": "Bootstrap Icons for React",
+  "author": "paullaros",
+  "license": "MIT",
+  "repository": "paullaros/bootstrap-icons-react",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "jsnext:main": "dist/index.es.js",
+  "engines": {
+    "node": ">=8",
+    "npm": ">=5"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w",
+    "prepare": "npm run build",
+    "generate": "node generate.js"
+  },
+  "peerDependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-react": "^7.7.4",
+    "@svgr/babel-plugin-remove-jsx-attribute": "^4.2.0",
+    "@svgr/rollup": "^4.3.3",
+    "bootstrap-icons": "^1.0.0-alpha",
+    "cross-env": "^6.0.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "^3.2.0",
+    "rollup": "^1.27.5",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
