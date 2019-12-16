@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-icons-react",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0-alpha2",
   "description": "Bootstrap Icons for React",
   "author": "paullaros",
   "license": "MIT",
@@ -23,17 +23,17 @@
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.7.4",
-    "@babel/preset-env": "^7.7.4",
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
     "@babel/preset-react": "^7.7.4",
     "@svgr/babel-plugin-remove-jsx-attribute": "^4.2.0",
     "@svgr/rollup": "^4.3.3",
-    "bootstrap-icons": "^1.0.0-alpha",
+    "bootstrap-icons": "^1.0.0-alpha2",
     "cross-env": "^6.0.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "^3.2.0",
-    "rollup": "^1.27.5",
+    "react-scripts": "^3.3.0",
+    "rollup": "^1.27.13",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0"
   },

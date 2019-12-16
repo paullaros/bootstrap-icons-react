@@ -33,6 +33,28 @@ const App = () => {
 export default App;
 ```
 
+Modify size:
+```javascript
+<Star height={96} width={96} />
+```
+
+Pass props:
+```javascript
+<Star className="mb-2" />
+```
+
+Include the whole icon library:
+```javascript
+import React from 'react';
+import * as Icon from 'bootstrap-icons-react';
+
+const App = () => {
+  return <Icon.Star />
+};
+
+export default App;
+```
+
 ## Features
 
 - No dependencies, just React
