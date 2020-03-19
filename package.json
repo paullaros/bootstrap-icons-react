@@ -19,20 +19,19 @@
     "generate": "node generate.js"
   },
   "peerDependencies": {
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.7.5",
-    "@babel/preset-env": "^7.7.6",
-    "@babel/preset-react": "^7.7.4",
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "@babel/preset-react": "^7.8.3",
     "@svgr/babel-plugin-remove-jsx-attribute": "^4.2.0",
     "@svgr/rollup": "^4.3.3",
     "bootstrap-icons": "^1.0.0-alpha3",
     "cross-env": "^6.0.3",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "react-scripts": "^3.3.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "rollup": "^1.27.13",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0"
