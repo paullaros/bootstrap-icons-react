@@ -34,7 +34,7 @@
     "@babel/preset-react": "^7.9.4",
     "@svgr/babel-plugin-remove-jsx-attribute": "^4.2.0",
     "@svgr/rollup": "^4.3.3",
-    "bootstrap-icons": "^1.0.0-alpha4",
+    "bootstrap-icons": "^1.0.0-alpha5",
     "cross-env": "^6.0.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
